@@ -47,4 +47,5 @@ jobs:
     needs: build
     steps:
 
-    theme: jekyll-theme-architect
+    theme: jekyll-theme-minimalist
+  
